@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+#I am finndolf and this is my website! 
+##Have a look around
+## and make sure to check my 
+#TWITCH!!!! 
+##to see if I am LIVE!!
