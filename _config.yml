@@ -18,7 +18,7 @@ youtube_username: install-linux
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-remote_theme: jekyll/minima
+theme: "minima"
 minima:
   skin: dark
   date_format: "%b %-d, %Y"
